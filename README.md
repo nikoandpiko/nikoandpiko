@@ -15,7 +15,7 @@
 
 ![Roma](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-ferrari-roma-105-1599666401.jpg?crop=0.587xw:0.440xh;0.151xw,0.418xh&resize=400:* "Ferrari Roma")
 
-[LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
+[My LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
 
 ## Check out my latest apps
 
