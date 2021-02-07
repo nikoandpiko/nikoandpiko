@@ -2,10 +2,15 @@
 ## How's it going?
 
 🔭 My name's Nick and I love Rails!
+
 🌱 I’m currently learning what one can achieve with SVG and animations!
+
 👯 I’m looking for people to build things with!
+
 😄 Besides code, the other loves of my life are my family and cars.
+
 ⚡ Fun fact: I was a teacher and test developer for the past decade.
+
 
 ## Check out my latest apps
 
