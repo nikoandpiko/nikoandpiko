@@ -11,6 +11,8 @@
 
 ⚡ Fun fact: I was a teacher and test developer for the past decade.
 
+[LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
+
 
 ## Check out my latest apps
 
