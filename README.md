@@ -1,7 +1,7 @@
 ### はじめまして 👋
 ## How's it going?
 
-🔭 My name's Nick and I love Rails!
+🔭 My name's Nick and I *love* Rails! → [My LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
 
 🔔 My specialties include HTML, CSS, JavaScript, Ruby, MVC, TDD, Figma, etc.
 
@@ -13,9 +13,11 @@
 
 😄 Besides code, the other loves of my life are my family and cars.
 
+👄 私は日本語が話せます。
+
 ![Roma](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-ferrari-roma-105-1599666401.jpg?crop=0.587xw:0.440xh;0.151xw,0.418xh&resize=400:* "Ferrari Roma")
 
-[My LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
+###### This Ferrari gets extra points because we both share the same name.
 
 ## Check out my latest apps
 
