@@ -5,7 +5,7 @@
 
 🔔 My specialties include HTML, CSS, JavaScript, Ruby, MVC, TDD, Figma, etc.
 
-🌱 I’m currently learning what one can achieve with SVG and animations!
+🌱 I’m currently learning what one can achieve with SVG and animations! [See some samples](https://codepen.io/collection/DLokav "codepen")
 
 👯 I’m looking for people to build things with!
 
