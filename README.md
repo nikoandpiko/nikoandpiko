@@ -5,19 +5,21 @@
 
 🔔 My specialties include HTML, CSS, JavaScript, Ruby, MVC, TDD, Figma, etc.
 
-🌱 I’m currently learning what one can achieve with SVG and animations! [See some samples](https://codepen.io/collection/DLokav "codepen")
+🌱 I’m currently learning what one can achieve with SVG and animations! [See some samples](https://codepen.io/collection/DLokav "codepen sample collection")
 
 👯 I’m looking for people to build things with!
 
 👄 私は日本語が話せます。
 
-⚡ Fun fact: I was a teacher and test developer for the past decade.
+⚡ I was a teacher ([成蹊学園](https://www.seikei.ac.jp/gakuen/ "成蹊学園")、[成城学園](https://www.seijogakuen.ed.jp/chukou/ "成城学園")など) and [test developer](https://www.benesse.co.jp/gtec/ "GTEC") for the past decade.
+
+👨‍🎓 I received my Master's from [Temple University](https://www.tuj.ac.jp/tesol/index.html "Temple TESOL Program").
 
 😄 Besides code, the other loves of my life are my family and cars.
 
 ![Roma](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-ferrari-roma-105-1599666401.jpg?crop=0.587xw:0.440xh;0.151xw,0.418xh&resize=400:* "Ferrari Roma")
 
-###### ※ This Ferrari gets extra points because we both share the same name.
+###### ※ This [Ferrari](https://www.ferrari.com/en-PS/auto/ferrari-roma "Ferrari Roma") gets extra points because we both share the same name.
 
 ## Check out my latest apps
 
