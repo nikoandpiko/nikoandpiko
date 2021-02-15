@@ -25,11 +25,11 @@
 
 ![gameXchange](https://live.staticflickr.com/65535/50911153543_da124cfc24.jpg "gameXchange")
 
-[gameXchange](https://gamexxxchange.herokuapp.com/ "gameXchange") - A game sharing web app
+[gameXchange](https://gamexxxchange.herokuapp.com/ "gameXchange") - A game sharing web app ([repo](https://github.com/nikoandpiko/gamexchange))
 
 ![topShelf](https://live.staticflickr.com/65535/50918372742_388c21b50d.jpg "topShelf")
 
-[topShelf](https://top-shelf.herokuapp.com/ "topShelf") - A place to save your favorite original cocktails
+[topShelf](https://top-shelf.herokuapp.com/ "topShelf") - A place to save your favorite original cocktails ([repo](https://github.com/nikoandpiko/rails-mister-cocktail))
 
 ![clanparty](https://live.staticflickr.com/65535/50926173206_19d2679393.jpg "clanparty") 
 
