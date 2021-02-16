@@ -1,7 +1,7 @@
 ### はじめまして 👋
 ## How's it going?
 
-🔭 My name's Nick and I am a full-stack developer! → [My LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
+🔭 My name's Nick and I am a full-stack developer! [Portfolio](https://www.nikoandpiko.me/ "Nick Roma's Portfolio") / [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
 
 🔔 My tech stack includes (but is not limited to) HTML, CSS/SCSS, JavaScript, Ruby, Rails, and git.
 
