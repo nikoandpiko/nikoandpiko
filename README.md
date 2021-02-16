@@ -1,21 +1,21 @@
 ### はじめまして 👋
 ## How's it going?
 
-🔭 My name's Nick and I *love* Rails! → [My LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
+🔭 My name's Nick and I am a full-stack developer! → [My LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
 
-🔔 My specialties include HTML, CSS, JavaScript, Ruby, MVC, TDD, Figma, etc.
+🔔 My tech stack includes (but is not limited to!) HTML, CSS/SCSS, JavaScript, Ruby, Rails, and git.
 
 🌱 I’m currently learning what one can achieve with SVG and animations! [See some samples](https://codepen.io/collection/DLokav "codepen sample collection")
 
-👯 I’m looking for people to build things with!
+👯 I’m looking for opportunites to build things with others! Drop me a line!
 
 👄 私は日本語が話せます。
 
-⚡ I was a teacher ([成蹊学園](https://www.seikei.ac.jp/gakuen/ "成蹊学園")、[成城学園](https://www.seijogakuen.ed.jp/chukou/ "成城学園")など) and [test developer](https://www.benesse.co.jp/gtec/ "GTEC") for the past decade.
+⚡ I was a teacher ([成蹊学園](https://www.seikei.ac.jp/gakuen/ "成蹊学園")、[成城学園](https://www.seijogakuen.ed.jp/chukou/ "成城学園")など) and [test developer](https://www.benesse.co.jp/gtec/ "GTEC") until 2021, spending my free time coding on the side. From here on out, it's a coding lifestyle.
 
 👨‍🎓 I received my Master's from [Temple University](https://www.tuj.ac.jp/tesol/index.html "Temple TESOL Program").
 
-😄 Besides code, the other loves of my life are my family and cars.
+😄 Besides code, the other loves of my life are my family and cars (see below).
 
 ![Roma](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-ferrari-roma-105-1599666401.jpg?crop=0.587xw:0.440xh;0.151xw,0.418xh&resize=400:* "Ferrari Roma")
 
