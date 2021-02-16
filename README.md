@@ -3,9 +3,9 @@
 
 🔭 My name's Nick and I am a full-stack developer! → [My LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
 
-🔔 My tech stack includes (but is not limited to!) HTML, CSS/SCSS, JavaScript, Ruby, Rails, and git.
+🔔 My tech stack includes (but is not limited to) HTML, CSS/SCSS, JavaScript, Ruby, Rails, and git.
 
-🌱 I’m currently learning what one can achieve with SVG and animations! [See some samples](https://codepen.io/collection/DLokav "codepen sample collection")
+🌱 I’m currently learning what one can achieve with SVG and animations. [See some samples](https://codepen.io/collection/DLokav "codepen sample collection")
 
 👯 I’m looking for opportunites to build things with others! Drop me a line!
 
@@ -33,4 +33,4 @@
 
 ![clanparty](https://live.staticflickr.com/65535/50926173206_19d2679393.jpg "clanparty") 
 
-[clanparty](https://github.com/nikoandpiko "clanparty") (COMING SOON) -- Find other people to play games together based on your schedule
+clanparty (COMING SOON) -- Find other people to play games together based on your schedule [(repo)](https://github.com/nikoandpiko "clanparty")
