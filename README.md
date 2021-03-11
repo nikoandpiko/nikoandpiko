@@ -33,4 +33,4 @@
 
 ![clanparty](https://live.staticflickr.com/65535/50926173206_19d2679393.jpg "clanparty") 
 
-[clanparty](https://clanparty.net/ "clanparty") - Find other people to play games together based on your schedule ([repo](https://github.com/nikoandpiko/clanparty "clanparty"))
+[clanparty](http://www.clanparty.net/ "clanparty") - Find other people to play games together based on your schedule ([repo](https://github.com/nikoandpiko/clanparty "clanparty"))
