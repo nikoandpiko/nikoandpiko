@@ -1,11 +1,11 @@
 ### はじめまして 👋
 ## How's it going?
 
-🔭 My name's Nick and I am a full-stack developer! [Portfolio](https://www.nikoandpiko.me/ "Nick Roma's Portfolio") / [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
+🔭 My name's Nick Roma and I am a software developer! [Portfolio](https://www.nikoandpiko.me/ "Nick Roma's Portfolio") / [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
 
-🔔 My tech stack includes PERN/MERN, HTML, CSS/SCSS, JavaScript, Ruby, Rails, and git.
+🔔 My tech stack includes HTML, CSS/SCSS, JavaScript, Ruby, Rails, and git. Currently building projects with MongoDB, Express, React, Node, and Graphql.
 
-🌱 I’m currently learning what one can achieve with SVG and animations. [See some samples](https://codepen.io/collection/DLokav "codepen sample collection")
+🌱 I’m also learning to do SVG animations. [See some samples](https://codepen.io/collection/DLokav "codepen sample collection")
 
 👯 I’m looking for opportunites to build things with others! Drop me a line!
 
@@ -23,9 +23,9 @@
 
 ## Check out my latest apps
 
-![clanparty](https://live.staticflickr.com/65535/50926173206_19d2679393.jpg "clanparty") 
+![Clanparty](https://live.staticflickr.com/65535/50926173206_19d2679393.jpg "Clanparty") 
 
-[clanparty](http://www.clanparty.net/ "clanparty") - Find other people to play games together based on your schedule ([repo](https://github.com/nikoandpiko/clanparty "clanparty"))
+[Clanparty](http://www.clanparty.net/ "clanparty") - Find other people to play games together based on your schedule ([repo](https://github.com/nikoandpiko/clanparty "clanparty"))
 
 ![gameXchange](https://live.staticflickr.com/65535/50911153543_da124cfc24.jpg "gameXchange")
 
