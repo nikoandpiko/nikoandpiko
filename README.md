@@ -1,17 +1,17 @@
 ### はじめまして 👋
 ## How's it going?
 
-🔭 My name's Nick Roma and I am a software developer! [Portfolio](https://www.nikoandpiko.me/ "Nick Roma's Portfolio") / [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
+🔭 My name's Nick, and I am a software developer! [Portfolio](https://www.nikoandpiko.me/ "Nick Roma's Portfolio") / [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
 
-🔔 My tech stack includes HTML, CSS/SCSS, JavaScript, Ruby, Rails, and git. Currently building projects with MongoDB, Express, React, Node, and Graphql.
-
-🌱 I’m also learning to do SVG animations. [See some samples](https://codepen.io/collection/DLokav "codepen sample collection")
+🔔 My tech stack includes HTML, CSS, JavaScript, Ruby, Rails, and git. Currently building projects with MongoDB, Express, React, Node, and Graphql.
 
 👯 I’m looking for opportunites to build things with others! Drop me a line!
 
 👄 私は日本語が話せます。
 
-⚡ I was a teacher ([成蹊学園](https://www.seikei.ac.jp/gakuen/ "成蹊学園")、[成城学園](https://www.seijogakuen.ed.jp/chukou/ "成城学園")など) and [test developer](https://www.benesse.co.jp/gtec/ "GTEC") until 2021, spending my free time coding on the side. From here on out, it's a coding lifestyle.
+🌱 I’m also learning to do SVG animations. [See some samples](https://codepen.io/collection/DLokav "codepen sample collection")
+
+⚡ I was a teacher ([成蹊学園](https://www.seikei.ac.jp/gakuen/ "成蹊学園")、[成城学園](https://www.seijogakuen.ed.jp/chukou/ "成城学園")など) and [test developer](https://www.benesse.co.jp/gtec/ "GTEC"), spending my free time coding on the side. From here on out, it's a coding lifestyle.
 
 👨‍🎓 I received my Master's from [Temple University](https://www.tuj.ac.jp/tesol/index.html "Temple TESOL Program").
 
@@ -21,7 +21,7 @@
 
 ###### ※ This [Ferrari](https://www.ferrari.com/en-PS/auto/ferrari-roma "Ferrari Roma") gets extra points because we both share the same name.
 
-## Check out my latest apps
+## Check out my latest team-based projects
 
 ![Clanparty](https://live.staticflickr.com/65535/50926173206_19d2679393.jpg "Clanparty") 
 
@@ -30,6 +30,8 @@
 ![gameXchange](https://live.staticflickr.com/65535/50911153543_da124cfc24.jpg "gameXchange")
 
 [gameXchange](https://gamexxxchange.herokuapp.com/ "gameXchange") - A game sharing web app ([repo](https://github.com/nikoandpiko/gamexchange))
+
+## And a solo project
 
 ![topShelf](https://live.staticflickr.com/65535/50918372742_388c21b50d.jpg "topShelf")
 
