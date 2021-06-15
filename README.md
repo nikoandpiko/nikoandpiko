@@ -1,15 +1,15 @@
 ### はじめまして 👋
 ## How's it going?
 
-🔭 My name's Nick, and I am a software developer! [Portfolio](https://www.nikoandpiko.me/ "Nick Roma's Portfolio") / [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
+🔭 My name's Nick, and I am a software engineer [Portfolio](https://www.nikoandpiko.me/ "Nick Roma's Portfolio") / [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
 
-🔔 My tech stack includes HTML, CSS, JavaScript, Ruby, Rails, and git. Currently building projects with MongoDB, Express, React, Node, and Graphql.
+🔔 Currently contributing tests to larger projects and providing better alternatives to outdated application components.
 
 👯 I’m looking for opportunites to build things with others! Drop me a line!
 
 👄 私は日本語が話せます。
 
-🌱 I’m also learning to do SVG animations. [See some samples](https://codepen.io/collection/DLokav "codepen sample collection")
+🌱 I’m also learning to do SVG animations on the side. [See some samples](https://codepen.io/collection/DLokav "codepen sample collection")
 
 ⚡ I was a teacher ([成蹊学園](https://www.seikei.ac.jp/gakuen/ "成蹊学園")、[成城学園](https://www.seijogakuen.ed.jp/chukou/ "成城学園")など) and [test developer](https://www.benesse.co.jp/gtec/ "GTEC"), spending my free time coding on the side. From here on out, it's a coding lifestyle.
 
