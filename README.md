@@ -1,7 +1,7 @@
 ### はじめまして 👋
 ## How's it going?
 
-🔭 My name's Nick, and I am a software engineer [Portfolio](https://www.nikoandpiko.me/ "Nick Roma's Portfolio") / [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
+🔭 My name's Nick, and I am a software engineer. [Portfolio](https://www.nikoandpiko.me/ "Nick Roma's Portfolio") / [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
 
 🔔 Currently contributing tests to larger projects and providing better alternatives to outdated application components.
 
