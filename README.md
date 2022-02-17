@@ -1,6 +1,6 @@
 ## Hello!
 
-My name's Nick, and I'm a software engineer. [Portfolio](https://www.nikoandpiko.me/ "Nick Roma's Portfolio") / [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
+My name's Nick, and I'm a software engineer. [Portfolio](https://unruffled-carson-bab759.netlify.app/ "Nick Roma's Portfolio") / [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn")
 
 I was a teacher ([成蹊学園](https://www.seikei.ac.jp/gakuen/ "成蹊学園")、[成城学園](https://www.seijogakuen.ed.jp/chukou/ "成城学園")) and [test developer](https://www.benesse.co.jp/gtec/ "GTEC"). I received my Master's from [Temple University](https://www.tuj.ac.jp/tesol/index.html "Temple TESOL Program").
 
