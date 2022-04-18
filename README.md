@@ -12,17 +12,17 @@ Also, I love cars.
 
 ###### ※ [Ferrari Roma](https://www.ferrari.com/en-PS/auto/ferrari-roma "Ferrari Roma")
 
-## Latest team-based projects
-
-![Clanparty](https://live.staticflickr.com/65535/50926173206_19d2679393.jpg "Clanparty") 
-
-[Clanparty](http://www.clanparty.net/ "clanparty") - A game scheduling app ([repo](https://github.com/nikoandpiko/clanparty "clanparty"))
+## Recent side project
 
 ![gameXchange](https://live.staticflickr.com/65535/50911153543_da124cfc24.jpg "gameXchange")
 
 [gameXchange](https://gamexxxchange.herokuapp.com/ "gameXchange") - A game sharing app ([repo](https://github.com/nikoandpiko/gamexchange))
 
 <!--
+![Clanparty](https://live.staticflickr.com/65535/50926173206_19d2679393.jpg "Clanparty") 
+
+[Clanparty](http://www.clanparty.net/ "clanparty") - A game scheduling app ([repo](https://github.com/nikoandpiko/clanparty "clanparty"))
+
 ## And a solo project
 
 ![topShelf](https://live.staticflickr.com/65535/50918372742_388c21b50d.jpg "topShelf")
