@@ -1,8 +1,8 @@
 ## Hello 👋🏻
 
-I'm Nick, and I'm a software engineer. [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn") / [Portfolio](https://unruffled-carson-bab759.netlify.app/ "Nick Roma's Portfolio")
+I'm Nick, and I'm a web developer. [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn") / [Portfolio](https://nickroma.com/ "Nick Roma's Portfolio")
 
-I was a teacher ([成蹊学園](https://www.seikei.ac.jp/gakuen/ "成蹊学園")、[成城学園](https://www.seijogakuen.ed.jp/chukou/ "成城学園")) and [test developer](https://www.benesse.co.jp/gtec/ "GTEC"). I received my Master's from [Temple University](https://www.tuj.ac.jp/grad-ed "Temple TESOL Program").
+In the past, I was a teacher ([成蹊学園](https://www.seikei.ac.jp/gakuen/ "成蹊学園")、[成城学園](https://www.seijogakuen.ed.jp/chukou/ "成城学園")) and [test developer](https://www.benesse.co.jp/gtec/ "GTEC"). I received my Master's from [Temple University](https://www.tuj.ac.jp/grad-ed "Temple TESOL Program").
 
 私は日本語が話せます。
 
@@ -13,8 +13,6 @@ Also, I love cars.
  
  ###### ※ [Ferrari Roma, LA NUOVA DOLCE VITA](https://www.ferrari.com/en-PS/auto/ferrari-roma "Ferrari Roma, LA NUOVA DOLCE VITA")
 </kbd>
-
-
 
 <!-- ## Recent side project
 
