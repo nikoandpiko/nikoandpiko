@@ -1,4 +1,4 @@
-I'm Nick, a web developer. [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn") / [Portfolio](https://nickroma.com/ "Nick Roma's Portfolio")
+I'm Nick, a web developer. [LinkedIn](https://www.linkedin.com/in/nikoandpiko/ "LinkedIn") / [Portfolio](https://nickroma.com/ "Nick Roma's Portfolio") (It's down while I try to find some funds to cover the bill...)
 
 In the past, I was a teacher ([成蹊学園](https://www.seikei.ac.jp/gakuen/ "成蹊学園")、[成城学園](https://www.seijogakuen.ed.jp/chukou/ "成城学園")) and [test developer](https://www.benesse.co.jp/gtec/ "GTEC").
 
